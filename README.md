@@ -17,7 +17,7 @@ Clone this repo.
 git clone https://github.com/sc27kr/express-react-whatsapp.git
 ```
 
-Install the project dependencies and serve the application.
+Install the project dependencies.
 
 ```bash
 cd /backend-api
