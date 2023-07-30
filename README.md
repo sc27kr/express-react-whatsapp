@@ -50,5 +50,6 @@ Enjoy! [localhost:3000](http://localhost:3000)
 
 * Express.js
 * Apollo Server
+* JWT
 * React.js
 * Apollo Client
